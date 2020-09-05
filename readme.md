@@ -29,3 +29,14 @@ R= O processo de versionamento permite a proteção do código-fonte do sistema. Já
 
 6. Cite pelo menos três ferramentas de controle de versão e faça um breve
 detalhamento sobre cada uma delas.
+
+R= Mercurial, TFS, Subversion
+
+
+Mercurial= É a ferramenta de controle de versão de software utilizada por grandes empresas como o Facebook e Google, bastante eficiente consegue desempenhar bem as funções básicas de um bom controle de software, ela é bem rapida na execução dos comandos e funciona muito bem para equipes grandes .
+
+
+TSF=  "Team Foundation Server" é uma outra ferramenta de controle de versão de software que pode ser utilizada na sua empresa, ele pode possibilitar a gestão de projetos por meio de SCRUM ou CMMI, ele não possui limitações de crescimento e te integração  direta com o Microsoft Office.
+
+
+Subversion= é uma ferramenta de controle de versão de software bastante utilizada, é muito simples de ser utilizada é rapida em suas execuções, podendo ser manuseada apenas com os conhecimentos basicos do software assim executando os comando na ferramenta.Não é indicada para todas equipes de TI, ela é melhor para as pequenas equipes.
