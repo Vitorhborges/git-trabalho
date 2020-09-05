@@ -11,6 +11,7 @@ R= É um sistema de controle de versão de arquivos, podemos desenvolver projetos 
 
 2. O que é versionamento de software?
 
+R= Um sistema de controle de versões, tem por finalidade gerarenciar diferentes versões no desenvolvimento de um documento qualquer, esses sistemas são muitos utilizados no desenvolvimento de software para fazer o controle de diferentes versões  de desenvolvimento, códigos -fontes e da documentação, é util em diversos aspectos, tanto para projetos pessoais pequenos e simples como também para grandes projetos comerciais.
 
 3. Por que utilizar o Git como controle de versionamento?
 
